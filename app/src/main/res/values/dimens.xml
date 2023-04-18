@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_xxlarge">48dp</dimen>
+    <dimen name="massive">64dp</dimen>
+
+    <dimen name="field_thumbnail_size">35dp</dimen>
+    <dimen name="field_width">310dp</dimen>
+    <dimen name="contact_name_text_size">32sp</dimen>
+    <dimen name="info_thumbnail_size">40dp</dimen>
+    <dimen name="divider_width">350dp</dimen>
+
+</resources>
